@@ -1,5 +1,5 @@
 # LDAPR
-### Code for paper: Discover the Trends and Hotspots of Biosafety and Biosecurity Research via Machine Learning
+Code for paper: Discover the Trends and Hotspots of Biosafety and Biosecurity Research via Machine Learning
 
 ## Platform
 - numpy
