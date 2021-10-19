@@ -12,5 +12,5 @@
 ## Homepage
 [Homepage](https://www.keaml.cn/Biosafety/).
 
-![](/image/Framework.png=100x100)  
+![](/image/Framework.png=100000x100000)  
 ![](/image/LDAPR.png)
